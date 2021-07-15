@@ -4,7 +4,7 @@
         [
             "name"=>"Scopri le Maldive",
             "holiday_agency"=>"Luxury Travels",
-            "country"=>"Mladive",
+            "country"=>"Maldive",
             "city"=>"Malè",
             "hotel"=>"Arena Beach Hotel",
             "description"=>"Un posto meraviglioso dove rilassarsi godendo del sole e del mare cristallino",
